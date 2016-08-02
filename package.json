@@ -1,0 +1,27 @@
+{
+  "name": "rn_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "react": "15.2.1",
+    "react-native": "^0.30.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "rn_project start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xiyouMc/RNProject.git"
+  },
+  "keywords": [
+    "cxdcxd"
+  ],
+  "author": "xiyouMc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiyouMc/RNProject/issues"
+  },
+  "homepage": "https://github.com/xiyouMc/RNProject#readme"
+}
